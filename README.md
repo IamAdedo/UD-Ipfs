@@ -1,2 +1,3 @@
 # UD-Ipfs
-A landing page hosted on ipfs
+
+A single-file landing page hosted on ipfs
